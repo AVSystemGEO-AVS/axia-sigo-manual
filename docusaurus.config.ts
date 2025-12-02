@@ -10,15 +10,15 @@ const config: Config = {
   favicon: "img/favicon.png",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://avsystemgeo-avs.github.io/axia-sigo-manual/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/axia-sigo-manual/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "AVSystemGEO", // Usually your GitHub org/user name.
-  projectName: "Eletrobras Sigo", // Usually your repo name.
+  projectName: "Axia Sigo", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
