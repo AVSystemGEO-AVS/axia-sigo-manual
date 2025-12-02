@@ -16,7 +16,7 @@ Somente o usuário que adicionou o comentário pode editá-lo ou exclui-lo, cont
 
 ## Gerar PDF
 
-Quando todos os comentários forem devidamente respondidos, o elaborador poderá gerar uma versão do RDO em PDF utilizando o botão <IIcon icon="ic:baseline-note-add" height="24" />**Gerar RDO**, enviando-o assim para assinatura e aprovação. O documento ficará disponível em [**RDOs Gerados**](rdos-gerados) e em [**Assinatura de RDOs**](/mapa-sistema/contrato/assinatura-rdos).
+Quando todos os comentários forem devidamente respondidos, o elaborador poderá gerar uma versão do RDO em PDF utilizando o botão <IIcon icon="ic:baseline-note-add" height="24" />**Gerar RDO**, enviando-o assim para assinatura e aprovação. O documento ficará disponível em [**RDOs Gerados**](rdos-gerados) e em [**Assinatura de RDOs**](/mapa-sistema/contrato/aprovacao-rdos).
 
 Embora essa funcionalidade esteja disponível apenas para o elaborador, outros usuários podem visualizar uma versão preliminar clicando em <IIcon icon="ic:baseline-find-in-page" height="24" />**Visualizar PDF**.
 
