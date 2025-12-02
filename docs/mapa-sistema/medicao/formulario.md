@@ -1,31 +1,23 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Formulário
 
-Antes de preencher o **Formulário de Medição**, será necessário carregar os itens de medição relacionados.
-
 ## Preencher o formulário de medição
 
-Selecione o botão <IIcon icon="ic:baseline-edit-note" height="24" />**Preencher Medição**.
-
-Essa ação, além de trazer os itens de medição especificados na abertura da medição, também trará todos os itens que têm correlação com atividades da [**EAP Física**](/mapa-sistema/configuracoes-contrato/eap-fisica) que receberam algum avanço físico registrado através de RDO ou coleta física dentro do período selecionado.​
-
-Informe as quantidades de _% Executado_ dos itens de medição na coluna correspondente.
-
-Caso seja necessário vincular algum [**Índice de Reajuste**](/mapa-sistema/configuracoes-contrato/indices-reajuste), clique no nome de um ou mais itens de medição para selecioná-los e então no botão <IIcon icon="ic:baseline-insights" height="24" />**Reajuste**. Selecione o índice desejado e clique em **Salvar**.
+Selecione o botão <IIcon icon="ic:baseline-insights" height="24" />**Reaplicar Reajustes** caso precise atualizar os valores do formulário de acordo com as configurações cadastradas em [**Índices de Reajustes**](/mapa-sistema/configuracoes-contrato/indices-reajuste).
 
 Salve todas as alterações realizadas no formulário clicando em **Salvar**.
 
-:::warning[Importante]
+Opcionalmente, adicione informações adicionais ao formulário clicando em <IIcon icon="mdi:file-document-edit" height="24" />**Observações**.
 
-As informações inseridas manualmente no formulário serão perdidas caso o usuário clique em <IIcon icon="ic:baseline-edit-note" height="24" />**Preencher Medição** novamente.
+## Solicitar retificação
 
-:::
+Caso haja algum problema nos dados informados no boletim que impeçam a continuidade do preenchimento, solicite correções clicando em <IIcon icon="mdi:report" height="24" />**Solicitar Retificação**.
 
-## Gerar PDF
+## Enviar para aprovação
 
-Assim que os dados estiverem preenchidos, o usuário poderá gerar uma versão do formulário em PDF utilizando o botão <IIcon icon="ic:baseline-note-add" height="24" />**Gerar Formulário**. O documento ficará disponível em [**Formulários Gerados**](formularios-gerados).
+Assim que os dados estiverem preenchidos, o usuário poderá gerar uma versão do formulário em PDF utilizando o botão <IIcon icon="mdi:done-all" height="24" />**Enviar p/ Aprovação**. O documento ficará disponível em [**Formulários Gerados**](formularios-gerados).
 
-Pode-se visualizar uma versão preliminar clicando em <IIcon icon="ic:baseline-find-in-page" height="24" />**Visualizar PDF**.
+Pode-se visualizar uma versão preliminar clicando em <IIcon icon="ic:baseline-find-in-page" height="24" />**Visualizar Formulário**.
