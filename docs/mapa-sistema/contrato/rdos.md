@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # RDOs
 
-Para criar **RDOs (Relatórios Diários de Obras)**, clique no botão <IIcon icon="mdi:plus" height="24" />**Adicionar** a barra de ferramentas acima da tabela e selecione a _Obra_ na lista. O campo _Data_ será automaticamente preenchido com a próxima data disponível para criação de RDOs para a obra escolhida.
+Para criar **RDOs (Relatórios Diários de Obras)**, clique no botão <IIcon icon="mdi:plus" height="24" />**Adicionar** na barra de ferramentas acima da tabela e selecione a _Obra_ na lista. O campo _Data_ será automaticamente preenchido com a próxima data disponível para criação de RDOs para a obra escolhida.
 
 :::info[Observação]
 
